@@ -49,7 +49,7 @@ console.log(occupation);
  //19.Person's birthplace: "New York City"
 
  let PersonDetails: string[]= ["favourite colour: Blue" , "Number of followers: 1,000,000", "Person's blood type: 'A'" ,"Title of a book: To Kill a Mockingbird" , "Name of a country: United States", "Person's eye color: Brown","Person's birthplace: New York City" ]
- console.log("PersonDetails");
+ console.log(PersonDetails);
   
  //Distance between two cities: 200.5
  //15.Number of employees in a company: 500
